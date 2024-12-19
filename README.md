@@ -28,9 +28,8 @@ I’m a tea enthusiast, but my close friends know my coffee-loving side. ☕✨
 
 ### 🤝 Let’s Connect!
 
-- **Email**: [hellymodi02@gmail.com](#)
--  **GitHub**: [Helly's GitHub](https://github.com/HellyModiKalpesh)
-- **LinkedIn**: [www.linkedin.com/in/helly-modi-012329254](#)
-
+- **Email**: [hellymodi02@gmail.com](mailto:hellymodi02@gmail.com)
+- **GitHub**: [Helly's GitHub](https://github.com/HellyModiKalpesh)
+- **LinkedIn**: [www.linkedin.com/in/helly-modi-012329254](https://www.linkedin.com/in/helly-modi-012329254)
 ---
 
