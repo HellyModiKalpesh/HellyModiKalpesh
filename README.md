@@ -1,7 +1,10 @@
 # Hi there, I'm Helly! 👋
+A passionate data analyst and tech enthusiast from India  
+
 
 ### 👩‍💻 About Me
-I'm a tech enthusiast with **1+ year of experience as a Software Engineer**, specializing in **Python backend development**. Over time, my passion for uncovering insights in data led me to explore the exciting world of **data analytics**.
+👩‍💻 I started my career as a **Software Engineer** with **1+ year of experience in Python backend development**. My curiosity for deriving insights from data has led me to explore the exciting field of **data analytics**.
+
 
 ### 🌟 What I Bring
 - **🔍 Analytical Skills**: Developed through internships and Google Data Analytics certifications.
@@ -9,9 +12,9 @@ I'm a tech enthusiast with **1+ year of experience as a Software Engineer**, spe
 - **🛠️ Tools**: Proficient in Python, SQL, Power BI, Tableau, and Google Analytics.
 
 ### 📂 Projects
-- **[Power BI Dashboard](https://github.com/helly22/power-bi-project)**: Analyzed revenue trends and occupancy rates for hospitality management.
-- **[Supply Chain Analysis](https://github.com/helly22/supply-chain-analysis)**: Identified key insights to optimize delivery performance and reduce churn.
-- **[Amazon Sales Analysis](https://github.com/helly22/amazon-sales-analysis)**: Analyzed trends and relationships in e-commerce sales data.
+- **[Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMzJjYWUxMjItOTY4Yi00YjljLTljMjUtNmRlOGMwMGE2NGM1IiwidCI6ImZlMzQ2NjBjLWI3MjgtNDI0NC05MDRhLTUwNDg4MTNjZjIzMCJ9)**: Analyzed revenue trends and occupancy rates for hospitality management.
+- **[Supply Chain Analysis](https://app.powerbi.com/view?r=eyJrIjoiMWZhNTg2ZjQtMzhkOS00OTVmLWJjZDMtYTIxM2NiZmZmNjVlIiwidCI6ImZlMzQ2NjBjLWI3MjgtNDI0NC05MDRhLTUwNDg4MTNjZjIzMCJ9&pageName=5d5e5d762697add52859)**: Identified key insights to optimize delivery performance and reduce churn.
+- **[Amazon Sales Analysis](https://app.powerbi.com/view?r=eyJrIjoiODk4ZTY3N2YtYjZiZC00NzFiLWFhMjUtNTZkN2ZhYWFkMDJiIiwidCI6ImZlMzQ2NjBjLWI3MjgtNDI0NC05MDRhLTUwNDg4MTNjZjIzMCJ9)**: Analyzed trends and relationships in e-commerce sales data.
 
 ### 🎯 Career Goals
 Currently seeking a **Data Analyst** role to:
