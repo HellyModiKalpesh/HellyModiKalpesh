@@ -9,7 +9,7 @@ A passionate data analyst and tech enthusiast from India
 ### 🌟 What I Bring
 - **🔍 Analytical Skills**: Developed through internships and Google Data Analytics certifications.
 - **🚀 Projects**: Hands-on experience in crafting dashboards, analyzing datasets, and delivering actionable insights.
-- **🛠️ Tools**: Proficient in Python, SQL, Power BI, Tableau, and Google Analytics.
+- **🛠️ Tools**: Proficient in Python, SQL, Power BI,Google Sheet,Automation, Tableau, and Google Analytics.
 
 ### 📂 Projects
 - **[AtliQ-Hospitality-Analysis](https://app.powerbi.com/view?r=eyJrIjoiMzJjYWUxMjItOTY4Yi00YjljLTljMjUtNmRlOGMwMGE2NGM1IiwidCI6ImZlMzQ2NjBjLWI3MjgtNDI0NC05MDRhLTUwNDg4MTNjZjIzMCJ9)**: Analyzed revenue trends and occupancy rates for hospitality management.
