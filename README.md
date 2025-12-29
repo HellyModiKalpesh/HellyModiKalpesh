@@ -65,9 +65,3 @@ Growing as a data professional while:
 
 ## ☕ Fun Fact
 Tea in hand, analyzing data with curiosity 📈☕
-
----
-
-## 📊 GitHub Stats
-![Helly's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
